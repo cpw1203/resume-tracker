@@ -128,8 +128,3 @@ This is a standalone, open-source TUI application. It will store data locally (e
 - Example configuration file.
 - Dependencies: e.g., C++ compiler, FTXUI, SQLite.
 - Licensing (if open-source).
-
----
-
-
-Let me know and I’ll generate those too!
