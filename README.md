@@ -131,11 +131,5 @@ This is a standalone, open-source TUI application. It will store data locally (e
 
 ---
 
-## 📌 **Next Steps**
-
-Would you like:
-✅ A matching **feature roadmap**?  
-✅ A simple **wireframe** of the TUI layout?  
-✅ Or a **starter code structure** for FTXUI or any framework you choose?
 
 Let me know and I’ll generate those too!
