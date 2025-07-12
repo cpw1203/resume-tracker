@@ -79,6 +79,7 @@ This is a standalone, open-source TUI application. It will store data locally (e
 | FR-7 | The system shall provide a way to export data to CSV/JSON. | Medium |
 | FR-8 | The system shall have keyboard shortcuts for navigation and actions. | High |
 | FR-9 | The system shall display a help view with available commands. | High |
+| FR-10| The system shall allow the download and upload of data to email account. | Medium |
 
 ---
 
